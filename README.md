@@ -3,4 +3,4 @@
 # amstrad-cpc-expansion-breakout
 Simple PCB with labels and header pins for the Amstrad CPC Expansion Bus, compatible with an MX4 connector.
 
-Allows Amstrad CPC Expansion signals to be monitored using the labels with having to remember the exact pin position on the connector.
+Allows Amstrad CPC Expansion bus signals to be monitored using the labels with having to remember the exact pin position on the connector.
