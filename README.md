@@ -1,2 +1,3 @@
+![20230304_152610](https://user-images.githubusercontent.com/105534000/223210544-1f94f763-5072-426b-ae14-eedafad6613f.jpg)
 # amstrad-cpc-expansion-breakout
 Simple pcb with labels and header pins for Amstrad CPC Expansion Bus
