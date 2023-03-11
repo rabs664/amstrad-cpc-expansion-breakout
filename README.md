@@ -5,3 +5,5 @@ Simple PCB with labels and header pins for the Amstrad CPC Expansion Bus, compat
 Allows Amstrad CPC Expansion bus signals to be monitored using the labels without having to remember the pin position on the connector.
 
 Source contains Eagle schematic, board and cam output (gerber) files.
+
+see Wiki for more info.
