@@ -6,4 +6,6 @@ Allows Amstrad CPC Expansion bus signals to be monitored using the labels withou
 
 Source contains Eagle schematic, board and cam output (gerber) files.
 
+Note there is no ESD protection and the headers connect directly to the expansion bus, so care should be taken at all times to prevent accidents.
+
 see Wiki for more info.
